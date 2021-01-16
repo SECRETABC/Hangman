@@ -14,3 +14,10 @@ islam
 quran
 onomatopoeia
 hangman
+secretabc
+commercial
+data
+lock
+block
+catch
+run
